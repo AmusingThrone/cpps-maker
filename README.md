@@ -1,2 +1,2 @@
 # cpps-maker
-An All-In-One CPPS Maker. Uses the CPB Theme and Kitsune Auto-Setup
+An All-In-One CPPS Maker. Uses the ICE Theme and Kitsune Auto-Setup
